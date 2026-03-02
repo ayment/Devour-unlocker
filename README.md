@@ -1,7 +1,7 @@
 # Devour-unlocker
 Unlocks all Robs & Characters 
 
-Auto‑updating offsets – Leverages the IL2CPP Resolver to find method addresses at runtime, so it survives game updates.
+Auto‑updating offsets – Leverages the [IL2CPP Resolver](https://github.com/sneakyevil/IL2CPP_Resolver) to find method addresses at runtime, so it survives game updates.
 
 You can use this [Injector](https://github.com/ayment/dll-Injector) or this [NewInjector](https://github.com/ayment/new-dll-injector)
 or use anything you like
