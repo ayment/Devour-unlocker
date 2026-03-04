@@ -1,5 +1,5 @@
 # Devour-unlocker
-Unlocks all Robs & Characters 
+Unlocks all Robs, Characters, Perks, Emotes etc
 
 Auto‑updating offsets – Leverages the [IL2CPP Resolver](https://github.com/sneakyevil/IL2CPP_Resolver) to find method addresses at runtime, so it survives game updates.
 
