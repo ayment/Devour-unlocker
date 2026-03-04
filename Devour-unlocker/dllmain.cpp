@@ -56,6 +56,8 @@ bool find_sigs()
     Offsets::Menu_SetupFlashlight = (uintptr_t)IL2CPP::Class::Utils::GetMethodPointer(CSMenu, "SetupFlashlight");
     Offsets::Menu_SetupEmote = (uintptr_t)IL2CPP::Class::Utils::GetMethodPointer(CSMenu, "SetupEmote");
     Offsets::Menu_SetupPet = (uintptr_t)IL2CPP::Class::Utils::GetMethodPointer(CSMenu, "SetupPet");
+
+    return (Offsets::UnlockedRop && Offsets::UnlockedCharacters);
 }
 
 void EnableHooks()
